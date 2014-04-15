@@ -9,3 +9,4 @@ showdiffs
 Makefile
 *.class
 Output.*
+test.l
