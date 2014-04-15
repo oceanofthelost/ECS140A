@@ -1,0 +1,11 @@
+README
+test_all
+run*
+*.e
+*.correct
+showdiffs
+/HW3
+*.pdf
+Makefile
+*.class
+Output.*
